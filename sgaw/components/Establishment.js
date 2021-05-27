@@ -4,6 +4,7 @@ import { Form, Label, FormGroup, Input, Button, Row, Col, Table } from 'reactstr
 const Establishment = () => {
     return (
         <>
+        <h1>HOLA SOY CLAUDiO</h1>
             <Table borderless>
                 <thead>
                     <tr>
